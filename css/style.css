@@ -71,6 +71,13 @@ h5{
 figure{
     text-align: center;
 }
+figure p{
+    text-decoration: none;
+    color: rgb(255, 153, 0);
+    font-weight: bold;
+    text-shadow: 1px 1px 1px black;
+    font-size: 2rem;
+}
 .imagens-site{
     border-radius: 10px;
     width: 70%;
